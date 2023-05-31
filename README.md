@@ -5,11 +5,10 @@
 1. 该应用是whistle插件，需要先安装whistle：[https://github.com/avwo/whistle](https://github.com/avwo/whistle)
 2. 安装插件：
     ```
-    npm i -g whistle.autosave
+    npm i -g ./whistle.xiaohongshu
     ```
-    > 推荐使用淘宝镜像：` npm i -g whistle.autosave --registry=https://registry.npm.taobao.org`
 3. 安装后通过whistle的管理界面打开配置界面：
-    ![autosave插件管理界面](https://user-images.githubusercontent.com/11450939/51109605-a9eeb100-1830-11e9-985c-34d1e1b8ee88.gif)
+    ![小红书插件管理界面](https://user-images.githubusercontent.com/11450939/51109605-a9eeb100-1830-11e9-985c-34d1e1b8ee88.gif)
 
 
 配置方法参考管理界面里面的说明。

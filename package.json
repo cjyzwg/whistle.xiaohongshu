@@ -1,7 +1,7 @@
 {
-  "name": "whistle.autosave",
+  "name": "whistle.xiaohongshu",
   "version": "0.1.0",
-  "description": "自动保存指定抓包数据到本地目录",
+  "description": "自动保存指定抓包数据到obsidian文件夹下",
   "main": "./lib",
   "scripts": {
     "lint": "eslint lib",
