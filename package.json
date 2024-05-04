@@ -1,6 +1,7 @@
 {
   "name": "whistle.xiaohongshu",
   "version": "0.1.0",
+  "author": "nocky",
   "description": "自动保存指定抓包数据到obsidian文件夹下",
   "main": "./lib",
   "scripts": {
